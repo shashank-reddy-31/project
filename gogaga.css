@@ -1,0 +1,401 @@
+.top-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.main-container {
+    background-image: url("https://res.cloudinary.com/dit5wff6e/image/upload/v1714310459/backgrondperfect_nhzclh.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.heading-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.inner {
+    color: green;
+    font-weight: bold;
+}
+
+.inner-1 {
+    color: #089EAB;
+}
+
+.heading {
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 15px;
+    margin-left: 10px;
+}
+
+.para1 {
+
+    border: dotted;
+    padding: 5px;
+    text-align: center;
+    height: 60px;
+    margin-left: 8px;
+}
+
+.image1 {
+    height: 60px;
+    width: 60px;
+    border: dotted;
+    padding: 5px;
+    margin-left: 8px;
+    align-items: center;
+}
+
+.para2 {
+    border: dotted;
+    padding: 5px;
+    align-items: center;
+    height: 60px;
+    margin-left: 8px;
+}
+
+.in-line {
+    font-weight: bold;
+}
+
+.icon-1 {
+    background-color: white;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 0px;
+
+}
+
+.card-1 {
+    background-color: #061C82;
+    height: 60px;
+    margin-left: 8px;
+    padding: 5px;
+}
+
+.para3 {
+    margin: 4px;
+    font-size: 20px;
+    color: white;
+    font-family: "roboto";
+}
+
+.icon-2 {
+    margin: 10px;
+}
+
+.card-2 {
+    height: 60px;
+    margin-left: 8px;
+    padding: 5px;
+    border: dotted;
+}
+
+.card-3 {
+    height: 60px;
+    margin-left: 8px;
+    padding: 5px;
+    border: dotted;
+}
+
+.inner-style {
+    font-weight: bold;
+    color: #7A84B0;
+}
+
+.icon-4 {
+    margin: 10px;
+    padding: 0px;
+}
+
+.icon-6 {
+    margin: 10px;
+    padding: 0px;
+}
+
+.heading-2 {
+
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.heading-3 {
+    font-family: "roboto";
+    font-size: 22px;
+}
+
+.flights-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 125px;
+    padding-right: 10px;
+
+}
+
+.inner-card-1 {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+
+    width: 18%;
+    justify-content: space-around;
+    margin: 2px;
+    border-radius: 25px;
+}
+
+.aeroplane {
+    margin: 10px;
+}
+
+.inner-card-para {
+    margin: 10px;
+}
+
+.changeBackground {
+    background-color: #13267F;
+}
+
+.color {
+    color: white;
+}
+
+.intent {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.destination-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.context-content {
+    justify-content: center;
+}
+
+.destination-cart-container {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 40vh;
+    background-color: #21389C;
+    border-radius: 25px;
+
+
+}
+
+.inner-destination-card-1 {
+    display: flex;
+    flex-direction: column;
+    border: lightblue solid;
+    width: 20%;
+    height: 70%;
+
+    border-radius: 25px;
+    margin: 3px;
+}
+
+.destination-para-1 {
+    color: white;
+    padding: 3px;
+    margin: 4px;
+}
+
+.destination-para-2 {
+    color: white;
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 5px;
+    font-size: 14px;
+
+}
+
+.inner-destination-card-2 {
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: lightblue solid;
+    width: 33%;
+    height: 70%;
+    border-radius: 15px;
+}
+
+.stars {
+    font-family: "civiet";
+    margin: 8px;
+}
+
+
+
+.stars-para {
+    margin-left: 5px;
+    background-color: lightblue;
+    padding: 8px;
+    border-radius: 20%;
+}
+
+.destination-para-3 {
+    color: white;
+    padding: 14px;
+}
+
+.inner-card-style {
+    font-weight: bold;
+}
+
+.destination-para-4 {
+    color: white;
+    padding: 14px;
+}
+
+.destination-para-5 {
+    color: white;
+    padding: 14px;
+}
+
+.inner-card-style-1 {
+    font-weight: bold;
+}
+
+.inner-destination-card-3 {
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 14px;
+    border: lightblue solid;
+    width: 33%;
+    height: 70%;
+    border-radius: 15px;
+}
+
+.destination-para-6 {
+    color: white;
+}
+
+.inner-card-style-2 {
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.inner-destination-card-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+    height: 70%;
+    width: 8%;
+    background-color: white;
+    padding: 15px;
+    border: transperent solid;
+    border-radius: 15px;
+}
+
+.botttom-1-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 14px;
+}
+
+.happy-heading {
+    font-family: "sans-serif";
+
+    font-weight: bold;
+
+}
+
+.happy-paragraph {
+    margin-left: 10px;
+}
+
+.vl {
+    margin-left: 10px;
+    border-left: 6px solid gray;
+    height: 55px;
+}
+
+.happy-customer-1 {
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.horizantal {
+    color: black;
+}
+
+.image-down {
+    height: 45px;
+
+}
+
+.bottom-2-container {
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.safety {
+    color: #7AA8B9;
+    margin-left: 3px;
+}
+
+.safety-1 {
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.inner-cards {
+    height: 30vh;
+}
+
+.image-down-1 {
+    height: 65px;
+}
+
+.save-image {
+    height: 60px;
+}
+
+.save-heading {
+    font-weight: bold;
+    color: #1B2844;
+
+}
+
+.image-icon {
+    height: 20px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.save-para {
+    color: #1B2844;
+}
+
+.final-text {
+    margin-left: 2px;
+}
+
+.stars {
+    font-size: 25px;
+}
